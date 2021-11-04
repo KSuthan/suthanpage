@@ -5,4 +5,4 @@
 ! [testpic] (https://github.com/KSuthan/mybio/blob/main/assets/Screenshots/header.JPG)
 
 
-<img scr ="https://github.com/KSuthan/mybio/blob/main/assets/Screenshots/header.JPG">
+<img scr="https://github.com/KSuthan/mybio/blob/main/assets/Screenshots/header.JPG">
